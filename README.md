@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on Personal Homepage project.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on company that hire me.
-- 📫 How to reach me: email.
--->
+- 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:front.dev.pm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mieczyslawprzytula/)
