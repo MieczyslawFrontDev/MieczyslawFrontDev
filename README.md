@@ -1,8 +1,5 @@
 ### Hi there I'm Mieczyslaw 👋
 
-<!--
-**MieczyslawFrontDev/MieczyslawFrontDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👀 I’m interested in FrontEnd.
 - 🔭 I’m currently working on Personal Homepage project.
@@ -13,8 +10,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:front.dev.pm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mieczyslawprzytula/)
-
----
 
 ### Languages and Tools 🛠 
 
