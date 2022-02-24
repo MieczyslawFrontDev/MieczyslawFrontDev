@@ -1,6 +1,5 @@
 ### Hi there I'm Mieczyslaw 👋
 
-Here are some ideas to get you started:
 - 👀 I’m interested in FrontEnd.
 - 🔭 I’m currently working on Personal Homepage project.
 - 🌱 I’m currently learning React.
