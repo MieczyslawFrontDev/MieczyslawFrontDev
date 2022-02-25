@@ -1,3 +1,6 @@
+
+![image](https://github.com/MieczyslawFrontDev/MieczyslawFrontDev/blob/main/binary-gd5e351440_1920.jpg?raw=true)
+
 ### Hi there I'm Mieczyslaw 👋
 
 - 👀 I’m interested in FrontEnd.
