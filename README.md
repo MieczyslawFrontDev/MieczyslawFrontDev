@@ -1,4 +1,4 @@
-
+![image](https://github.com/MieczyslawFrontDev/MieczyslawFrontDev/blob/main/binary-gd5e351440_1920%20(2).jpg?raw=true)
 
 ### Hi there I'm Mieczyslaw 👋
 
